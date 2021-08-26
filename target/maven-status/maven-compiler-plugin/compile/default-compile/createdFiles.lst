@@ -1,0 +1,6 @@
+com\kyanja\repository\CustomerRepository.class
+com\kyanja\service\CustomerService.class
+com\kyanja\model\Customer.class
+com\kyanja\repository\CustomerDatatableFilter.class
+com\kyanja\service\ICustomerService.class
+com\kyanja\controller\CustomerWebController.class
